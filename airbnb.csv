@@ -1,0 +1,50 @@
+Listing ID,State,Listing Price,Property Type,Review Score
+101,California,15000,Apartment,4.5
+102,New York,2000,House,4.7
+103,California,250,Apartment,4.8
+105,New York,180,Apartment,4.6
+106,California,175,House,4.3
+108,New York,195,Apartment,4.9
+109,California,300,House,4.4
+111,Florida,150,Apartment,4.2
+112,California,280,Apartment,4.7
+113,New York,2100,House,4.8
+114,Texas,95,House,4.5
+115,California,200,Apartment,4.3
+116,Florida,120,House,4.1
+118,New York,190,Apartment,4.4
+119,California,320,House,4.0
+120,Florida,130,House,4.9
+121,California,350,Apartment,4.2
+122,New York,2200,House,4.7
+124,Florida,140,Apartment,4.5
+127,New York,200,Apartment,4.6
+128,California,275,House,4.4
+130,California,300,Apartment,4.9
+131,New York,2300,House,4.5
+133,Florida,170,Apartment,4.7
+137,California,280,House,4.6
+139,California,310,Apartment,4.2
+140,New York,2400,House,4.9
+143,Nevada,95,Apartment,4.5
+144,Oregon,180,House,4.7
+145,Washington,200,Apartment,4.2
+146,Arizona,130,House,4.4
+148,Nevada,100,House,4.8
+150,Washington,220,House,4.9
+152,Colorado,170,House,4.5
+154,Arizona,150,House,4.1
+156,Nevada,110,House,4.8
+158,Colorado,190,House,4.7
+160,Arizona,170,House,4.5
+162,Nevada,120,House,4.1
+164,Colorado,210,House,4.4
+166,Arizona,190,House,4.6
+168,Nevada,130,House,4.5
+170,Colorado,230,House,4.3
+172,Arizona,210,House,4.7
+174,Nevada,140,House,4.2
+176,Colorado,250,House,4.6
+178,Arizona,230,House,4.9
+180,Nevada,150,House,4.4
+
